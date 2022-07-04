@@ -1,0 +1,4 @@
+package packageTwo;
+
+class Momo {
+}
